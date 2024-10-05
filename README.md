@@ -15,11 +15,6 @@
   </a>
 </p>
 
-## 💻 Tech Stack:
-
-<p align="center">
-
-</p>
 
 ## 📊 GitHub Stats:
 <p align="center">
