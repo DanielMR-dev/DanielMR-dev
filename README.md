@@ -1,9 +1,9 @@
 
 
 
-# 💫 About Me:
+# 🚀 About Me:
 
-<h1 align="center"><b>Hello! I'm Nicolas Osorio Galvis</b> 
+<h1 align="center"><b>Hello! I'm Daniel Mira Restrepo</b> 
 
 <br>
 
@@ -23,11 +23,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielMR-dev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsorioCODE01&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMR-dev&theme=dracula&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMR-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 
