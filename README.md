@@ -11,8 +11,6 @@
   </a>
 </p>
 
-<br>
-
 ## 🌐 Socials:
 
 <p align="center">
