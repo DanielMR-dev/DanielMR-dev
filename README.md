@@ -15,14 +15,6 @@
   </a>
 </p> 
 
-##
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMR-dev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMR-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact">
-</p>
 
 
 <!-- You can add more sections here like Projects, Blogs, etc. -->
