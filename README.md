@@ -1,20 +1,43 @@
-# About Me:
+<div align="center">
 
-<h1 align="center"><b>Hello! I'm Daniel Mira Restrepo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=cyan&size=30&center=true&vCenter=true&width=800&height=120&lines=Engineer+💻;">
-  </a>
+# Hi, I'm Daniel Mira 👋
+
+**Systems & Computer Engineer · Full-Stack Developer · Cybersecurity & Blue Team**
+
+I build secure, high-performance software at the intersection of  
+**web development, networking, and cybersecurity**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mira-restrepo-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/DanielMR-dev/Portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miradaniel71@gmail.com)
+
+</div>
+
+## About me
+
+- 🔭 Building **[NetSentinel](https://github.com/DanielMR-dev/NetSentinel)**, a native network discovery and security auditing application.
+- ⚙️ Working mainly with **TypeScript, React, Next.js, Node.js, Rust, and Python**.
+- 🛡️ Interested in **secure software, Blue Team, network security, and software architecture**.
+- 🌎 Based in **Colombia** and open to remote opportunities.
+
+## Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[NetSentinel](https://github.com/DanielMR-dev/NetSentinel)** | Network discovery, security auditing, and infrastructure monitoring. | Rust · Tokio · Iced · SQLite |
+| **[Portfolio](https://github.com/DanielMR-dev/Portfolio)** | Bilingual and accessible personal portfolio built as a modern monorepo. | Next.js · React · TypeScript · Tailwind |
+
+## Tech stack
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rust,python,postgres,mongodb,linux,git"
+    alt="TypeScript, React, Next.js, Node.js, Rust, Python, PostgreSQL, MongoDB, Linux and Git"
+  />
 </p>
 
-## 🌐 Socials:
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-mira-restrepo-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p> 
-
-
-
-<!-- You can add more sections here like Projects, Blogs, etc. -->
+  <i>Building useful software with security in mind.</i>
+</p>
