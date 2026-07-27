@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm Daniel Mira 👋
 
 **Systems & Computer Engineer · Full-Stack Developer · Cybersecurity & Blue Team**
