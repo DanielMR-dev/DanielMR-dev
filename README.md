@@ -18,7 +18,6 @@ I build secure, high-performance software at the intersection of
 - 🔭 Building **[NetSentinel](https://github.com/DanielMR-dev/NetSentinel)**, a native network discovery and security auditing application.
 - ⚙️ Working mainly with **TypeScript, React, Next.js, Node.js, Rust, and Python**.
 - 🛡️ Interested in **secure software, Blue Team, network security, and software architecture**.
-- 🌎 Based in **Colombia** and open to remote opportunities.
 
 ## Featured projects
 
