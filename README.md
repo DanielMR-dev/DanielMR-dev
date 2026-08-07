@@ -18,18 +18,12 @@ I build secure, high-performance software at the intersection of
 - ⚙️ Working mainly with **TypeScript, React, Next.js, Node.js, Rust, and Python**.
 - 🛡️ Interested in **secure software, Blue Team, network security, and software architecture**.
 
-## Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[Portfolio](https://github.com/DanielMR-dev/Portfolio)** | Bilingual and accessible personal portfolio built as a modern monorepo. | Next.js · React · TypeScript · Tailwind |
-
 ## Tech stack
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rust,python,postgres,mongodb,linux,git"
-    alt="TypeScript, React, Next.js, Node.js, Rust, Python, PostgreSQL, MongoDB, Linux and Git"
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rust,python,java,postgres,mongodb,linux,git"
+    alt="TypeScript, React, Next.js, Node.js, Rust, Python, Java, PostgreSQL, MongoDB, Linux and Git"
   />
 </p>
 
