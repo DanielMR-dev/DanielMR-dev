@@ -25,18 +25,8 @@ I build secure, high-performance software at the intersection of
 | **[LogHunter CLI](https://github.com/DanielMR-dev/LogHunter-CLI)** | Offline-first OpenSSH authentication log analyzer with deterministic reporting and brute-force detection for defensive security and SOC workflows. | Python · Typer · Rich · uv |
 | **[VigilantStream](https://github.com/DanielMR-dev/VigilantStream)** | Real-time SIEM core for log ingestion, normalization, correlation, persistence, alerting, and resilient event processing. | Java 21 · Spring Boot · Kafka · PostgreSQL |
 | **[PcapRaven](https://github.com/DanielMR-dev/PcapRaven)** | Early-stage offline-first network forensics and threat-hunting CLI designed for PCAP/PCAPNG analysis and explainable security findings. | Rust · Network Forensics · PCAP/PCAPNG |
+| **[CyberSecurity](https://github.com/DanielMR-dev/CyberSecurity)** | Hands-on cybersecurity labs and write-ups covering penetration testing, wargames, privilege escalation, web security, exploitation, and technical reporting in controlled environments. | PTES · Linux · Nmap · Netcat · Bash |
 | **[Portfolio](https://github.com/DanielMR-dev/Portfolio)** | Bilingual and accessible personal portfolio built as a modern monorepo with responsive design and dark/light mode. | Next.js 15 · React 19 · TypeScript · Tailwind CSS 4 |
-
-## Cybersecurity labs & write-ups
-
-Alongside defensive security tooling, I maintain **[CyberSecurity](https://github.com/DanielMR-dev/CyberSecurity)**, a hands-on repository where I document penetration-testing labs, wargames, and security challenges performed in controlled environments.
-
-- 🧪 **31 documented challenges and write-ups** across **BreachLab** and **TryHackMe**.
-- 🧭 A workflow organized around **PTES**: reconnaissance, scanning, enumeration, exploitation, post-exploitation, and reporting.
-- 🐧 Practice covering **Linux enumeration, permissions and ACLs, SUID/sudo privilege escalation, cron analysis, SSH/TLS, Nmap, Netcat, process inspection, binary analysis, cryptography, web authentication bypass, Windows exploitation, and Git forensics**.
-- 📝 Emphasis on **reproducible methodology, evidence, technical reasoning, and reporting**, rather than only completing flags or challenges.
-
-➡️ **[Explore the CyberSecurity repository](https://github.com/DanielMR-dev/CyberSecurity)**
 
 ## Tech stack
 
