@@ -23,7 +23,6 @@ I build secure, high-performance software at the intersection of
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[LogHunter CLI](https://github.com/DanielMR-dev/LogHunter-CLI)** | Offline-first OpenSSH authentication log analyzer with deterministic reporting and brute-force detection for defensive security and SOC workflows. | Python · Typer · Rich · uv |
-| **[VigilantStream](https://github.com/DanielMR-dev/VigilantStream)** | Real-time SIEM core for log ingestion, normalization, correlation, persistence, alerting, and resilient event processing. | Java 21 · Spring Boot · Kafka · PostgreSQL |
 | **[PcapRaven](https://github.com/DanielMR-dev/PcapRaven)** | Early-stage offline-first network forensics and threat-hunting CLI designed for PCAP/PCAPNG analysis and explainable security findings. | Rust · Network Forensics · PCAP/PCAPNG |
 | **[CyberSecurity](https://github.com/DanielMR-dev/CyberSecurity)** | Hands-on cybersecurity labs and write-ups covering penetration testing, wargames, privilege escalation, web security, exploitation, and technical reporting in controlled environments. | PTES · Linux · Nmap · Netcat · Bash |
 | **[Portfolio](https://github.com/DanielMR-dev/Portfolio)** | Bilingual and accessible personal portfolio built as a modern monorepo with responsive design and dark/light mode. | Next.js 15 · React 19 · TypeScript · Tailwind CSS 4 |
