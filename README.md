@@ -2,7 +2,7 @@
   
 # Hi, I'm Daniel Mira 👋
 
-**Systems & Computer Engineer · Full-Stack Developer · Cybersecurity & Blue Team**
+**Systems & Computer Engineer · Cybersecurity & Blue Team · Full-Stack Developer**
 
 I build secure, high-performance software at the intersection of  
 **web development, networking, and cybersecurity**.
